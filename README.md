@@ -1,6 +1,6 @@
 # EmarrefResqueBundle
 
-Adds resque capabilities to a Symfony application using [nrk/predis] and [mjphaynes/php-resque].
+Adds resque capabilities to a Symfony application using [nrk/predis](https://github.com/nrk/predis) and [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque).
 
 ## Installation
 
@@ -46,4 +46,4 @@ Running the symfony console command with no arguments will show you the availabl
 
 `$ php app/console`
 
-See the documentation for [mjphaynes/php-resque] for information on how to use resque from within your app.
+See the documentation for [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) for information on how to use resque from within your app.
