@@ -1,6 +1,6 @@
 {
     "name": "emarref/resque-bundle",
-    "description": "Adds resque capabilities to a Symfony application",
+    "description": "Adds resque capabilities to a Symfony application without requiring a custom PHP redis extension.",
     "require": {
         "mjphaynes/php-resque": "~1.1"
     },
