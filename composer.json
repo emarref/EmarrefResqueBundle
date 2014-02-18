@@ -1,0 +1,24 @@
+{
+    "name": "emarref/resque-bundle",
+    "description": "Adds resque capabilities to a Symfony application",
+    "require": {
+        "mjphaynes/php-resque": "~1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Malcolm Fell",
+            "email": "emarref@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/emarref/php-resque.git"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Emarref\\Bundle\\ResqueBundle": "src" }
+    }
+}
